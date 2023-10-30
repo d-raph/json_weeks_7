@@ -1,0 +1,20 @@
+[
+  {
+    "nom": "Instinct VS",
+    "marque": "La Sportiva",
+    "type": "Pointe d'escalade",
+    "prix": 150.0
+  },
+  {
+    "nom": "Chimera",
+    "marque": "Scarpa",
+    "type": "Chausson asymétrique",
+    "prix": 160.0
+  },
+  {
+    "nom": "Solution Comp",
+    "marque": "La Sportiva",
+    "type": "Chausson haute performance",
+    "prix": 180.0
+  }
+]
